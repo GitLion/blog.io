@@ -1,6 +1,5 @@
 <html>
-<title>  
-Hello
+<title>Hello
 </title>
 <body>
 <p>欢迎来到我的世界
